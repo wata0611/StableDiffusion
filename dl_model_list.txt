@@ -1,0 +1,2 @@
+https://huggingface.co/KBlueLeaf/kohaku-v2.1/resolve/main/kohaku-v2.1.safetensors:StableDiffusion/kohaku-v2.1.safetensors
+https://huggingface.co/latent-consistency/lcm-lora-sdv1-5/resolve/main/pytorch_lora_weights.safetensors:LoRA/lcm-lora-sd15.safetensors
